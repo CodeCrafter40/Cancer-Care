@@ -45,3 +45,6 @@ CTCA aimed to efficiently collect patient-reported outcomes and integrate these 
 
 ### Conclusion:
 In collaboration with Seattle Information Systems Inc., I delivered a transformative solution for CTCA that streamlined operations and elevated patient care. By leveraging innovative technologies and integrating with established systems like AllScripts EHR, this project exemplifies the potential of tech-driven healthcare solutions.
+
+### Snapshots:
+![image](https://github.com/user-attachments/assets/c5925ee9-963b-4cba-ab7a-319ded27599d)
