@@ -21,6 +21,18 @@ The primary objective was to seamlessly integrate patient-reported outcomes into
 - **Smart Printing:** The system included an algorithm for automatic printer selection, directing documents to the nearest printer to the concerned physician, thereby streamlining operations and reducing time waste.
 
 ### Integrations and Tech Stack:
+
+![Java](https://img.shields.io/badge/Java-EE-blue?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.10-brightgreen?logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0.33-blue?logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-6.2.7-blue?logo=hibernate&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2.41.0-fc6d26?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24.0.4-blue?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2.396.1-blue?logo=jenkins&logoColor=white)
+
+
 - **Technologies Used:**
   - **Backend:** Java EE
   - **Frontend:** ReactJS
